@@ -1,0 +1,22 @@
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+E:\C# Advanced by TopLearn\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+E:\C# Advanced by TopLearn\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+E:\C# Advanced by TopLearn\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+E:\C# Advanced by TopLearn\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+E:\C# Advanced by TopLearn\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# Advanced by TopLearn\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+E:\C# Advanced by TopLearn\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# Advanced by TopLearn\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojResolveAssemblyReference.cache
+E:\C# Advanced by TopLearn\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+E:\C# Advanced by TopLearn\TopLearn.Com_CsharpAdvanced_06\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
